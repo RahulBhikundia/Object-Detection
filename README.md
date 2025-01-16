@@ -28,6 +28,6 @@ This project involves the implementation and comparison of state-of-the-art obje
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/object-detection-bccd.git
-cd object-detection-bccd
+git clone https://github.com/your-username/object-detection.git
+cd object-detection
 ```
